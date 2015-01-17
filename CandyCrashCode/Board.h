@@ -1,5 +1,5 @@
 #pragma once
-
+// rannnn
 class Board
 {
 public:
